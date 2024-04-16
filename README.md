@@ -1,6 +1,4 @@
-Here's a README file for your ToDo List app:
 
----
 
 # ToDo List App
 
@@ -23,13 +21,10 @@ This ToDo List app allows users to add tasks, mark them as completed, and delete
 - MongoDB: NoSQL database used for storing tasks.
 
 ## Installation
-
 To run this app locally, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Navigate to the project directory in your terminal.
-3. Install dependencies using `npm install`.
-4. Start the frontend server using `npm start`.
-5. Start the backend server (if applicable) using `npm start` or `node server.js`.
-6. Access the app in your web browser at `http://localhost:3000`.
-
+Clone this repository to your local machine.
+Navigate to the project directory in your terminal.
+Install dependencies using npm install. This will install all required modules including React and Bootstrap.
+Start the frontend server using npm start.
+Access the app in your web browser at http://localhost:3000.
