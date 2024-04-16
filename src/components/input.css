@@ -1,0 +1,15 @@
+.item-box{
+    display: flex;
+    width: fit-content;
+    align-items: center;
+    font-size: 20px;
+}
+
+.cont{
+    margin: 1vw;
+}
+
+.completed{
+    text-decoration: line-through;
+}
+
